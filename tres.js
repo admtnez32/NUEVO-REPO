@@ -140,3 +140,4 @@ un descuento del 25%, que solo mostramos si corresponde.*/
 		document.write("<br><br>El precio por pasajero es de $600.<br>Cantidad de pasajeros ingresados: "+contadorPersonas+"<br>Precio total: $"+precioTotal);
 		}
 }
+//Prueba git
